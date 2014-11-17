@@ -1,10 +1,10 @@
 'use strict';
 
-  function Players(){
+function Players(){
   var name = 0;
   return name = process.argv[2];
   }
 
-  module.exports = Players;
+module.exports = Players;
 
 
